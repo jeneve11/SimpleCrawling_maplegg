@@ -1,5 +1,6 @@
-# SimpleCrawlingPractice
-Simple Crawling Practice (using maple.gg)
+# SimpleCrawling_maplegg
+- 파이썬을 이용한 간단한 크롤링 프로그램
+- maple.gg라는 사이트 크롤링함
 
 ## 개발 목적
 - 메이플스토리 길드 컨텐츠 '샤레니안의 수로' 진행 중 길드원들을 스펙, 직업에 따라 파티 구성해야 할 일이 있었음
